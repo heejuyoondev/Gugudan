@@ -15,3 +15,4 @@ public class Gugudan {
         System.out.println(number * 8);
         System.out.println(number * 9);
 	}
+}
